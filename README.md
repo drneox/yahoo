@@ -26,4 +26,5 @@ Example:
 
 ----------
 
-
+#Donations: BitCoins
+`1PfbPmwp6jqjuAdRfH3W1ya9JmDBK1yyW6`
