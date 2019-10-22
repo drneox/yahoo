@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "demo",
+    "owner": "carlos ganoza"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "demo",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "carlos ganoza"
+  }
+}
